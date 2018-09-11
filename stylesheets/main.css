@@ -1,6 +1,7 @@
 body {
   font: 100% Helvetica, sans-serif;
-  color: #333; }
+  color: #333;
+  background-color: #243; }
 
 /* above are variables making use of the $ as the way to call them 
 */
