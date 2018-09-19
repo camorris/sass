@@ -1,2 +1,16 @@
 # **SASS UNDERSTANDING**
-__This file serves to show my knowledge of__ _SASS_ __and my advanced skills with__ _CSS3_.
+
+
+## Objective 
+
+This file serves to show my knowledge of
+
+_1. CSS3_  
+_2. SASS_
+
+## Why? 
+
+
+
+
+
