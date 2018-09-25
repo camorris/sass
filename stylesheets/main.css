@@ -3,6 +3,9 @@ body {
   color: #333;
   background-color: #243; }
 
+h1 {
+  font-size: 1px; }
+
 /* above are variables making use of the $ as the way to call them 
 */
 
